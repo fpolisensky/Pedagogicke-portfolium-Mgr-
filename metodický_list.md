@@ -21,20 +21,20 @@
 * **Cílené dimenze informatického myšlení:**
   * **Algoritmizace a kódování:** Žák vytvoří sekvenci příkazů krok za krokem.
   * **Ladění (Debugging):** Žák identifikuje odchylku v chování robota a upraví kód.
-  * **Rozklad problému (Dezintegrace):** Žák rozdělí cesty bludištěm na menší proveditelné úseky.
+  * **Rozklad problému:** Žák rozdělí cesty bludištěm na menší proveditelné úseky.
 
 * **Specifické výukové cíle vyučovací hodiny (formulované v jazyce žákova výkonu dle Bloomovy taxonomie):**
 
-  1. **Kognitivní (poznávací) cíle:**
+  1. **Kognitivní cíle:**
      * Žák reprodukuje a popíše základní pojmy z oblasti robotiky (algoritmus, program, robot, blokové programování).
      * Žák aplikuje své znalosti a navrhne funkční sekvenci příkazů (kódu) tak, aby robot samostatně a bez kolize projel zadanou trasu ze startu do cíle připraveného papírového bludiště (v časovém limitu 20 minut).
      * Žák analyzuje chybné chování robota při nárazu do zdi, vyhodnotí příčinu chyby a opraví vlastní kód (debugging).
 
-  2. **Afektivní (postojové / hodnotové) cíle:**
+  2. **Afektivní cíle:**
      * Žák projevuje vytrvalost a odolnost vůči frustraci při opakovaném testování a ladění neúspěšného programu.
      * Žák spolupracuje ve dvojici, aktivně komunikuje se svým parťákem a spravedlivě si dělí role při ovládání techniky (tablet vs. robot).
 
-  3. **Psychomotorické (dovednostní) cíle:**
+  3. **Psychomotorické cíle:**
      * Žák koordinuje jemnou motoriku při manipulaci s robotickou pomůckou, jejím zapínáním, kalibrací a propojováním s tabletem.
 
 ## 3. Průběh hodiny (Harmonogram – 45 minut)
