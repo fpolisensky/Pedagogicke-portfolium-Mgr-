@@ -4,19 +4,19 @@
 - **Název hodiny:** Základy programování robotů – První kroky v bludišti
 - **Cílová skupina:** 2. stupeň ZŠ (6.–8. ročník)
 - **Časová dotace:** 1 vyučovací hodina (45 minut)
-- **Vzdělávací oblast (RVP ZV):** Informační a komunikační technologie
+- **Vzdělávací oblast (RVP ZV):** Informatika
 - **Klíčové kompetence:** Kompetence k učení, k řešení problémů, pracovní kompetence
 - **Použité pomůcky a technika:**
   - Robotické sety (např. Ozobot, LEGO Spike nebo mBot) – 1 set pro dvojici žáků
   - Tablet nebo notebook pro každou dvojici
-  - Vytištěné papírové bludiště / pracovní list
+  - Vytištěné papírové bludiště
 
 ## 2. Cíle hodiny
 - **Vzdělávací cíle:**
-  - Žák si vyzkouší sestavit jednoduchý blokový program (nebo sekvenci příkazů) pro pohyb robota.
+  - Žák sestaví jednoduchý blokový program (nebo sekvenci příkazů) pro pohyb robota.
   - Žák aplikuje metodu pokus-omyl při ladění (debuggingu) chyb v kódu.
 - **Výchovné a sociální cíle:**
-  - Rozvoj spolupráce ve dvojicích a logického myšlení.
+  - Spolupracuje se spolužákem ve dvojici.
 
 ## 3. Průběh hodiny (Harmonogram – 45 minut)
 
